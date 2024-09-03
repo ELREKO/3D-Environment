@@ -23,7 +23,6 @@ C <ceiling_color>
 Map Lines
 ```
 
-- **R <width> <height>**: Specifies the resolution of the game window (width x height).
 - **NO <path_to_north_texture>**: Path to the texture for the north wall.
 - **SO <path_to_south_texture>**: Path to the texture for the south wall.
 - **WE <path_to_west_texture>**: Path to the texture for the west wall.
