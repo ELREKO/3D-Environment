@@ -41,7 +41,7 @@ To get started with the Cub3D project, follow these steps:
    Open your terminal and run the following command to clone the Cub3D repository:
 
    ```bash
-   git clone https://github.com/yourusername/cub3d.git
+   git clone https://github.com/ELREKO/cub3d.git
    ```
 
 2. **Navigate to the Project Directory**
