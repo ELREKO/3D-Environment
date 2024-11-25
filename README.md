@@ -9,9 +9,9 @@
 -->
 
 
-# Cub3D Project
+# 3D Environment Project
 
-Cub3D is a project I developed to create a 3D maze game inspired by classic titles like "Wolfenstein 3D." The project is built in C and utilizes the MiniLibX graphics library to render a dynamic 3D environment using raycasting. It challenged me to dive deep into graphics programming, implement mathematical concepts like trigonometry for 3D effects, and optimize performance.
+I developed a project to create a 3D maze game inspired by classic titles like "Wolfenstein 3D." The project is built in C and utilizes the MiniLibX graphics library to render a dynamic 3D environment using raycasting. It challenged me to dive deep into graphics programming, implement mathematical concepts like trigonometry for 3D effects, and optimize performance.
 
 
 ## Key Objectives:
