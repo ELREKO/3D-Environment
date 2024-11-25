@@ -10,7 +10,7 @@
 # Cub3D Project
 
 <video width="600" height="400" loop autoplay muted>
-  <source src="doc./pic/game.mp4" type="video/mp4">
+  <source src="doc/pic/game.mp4" type="video/mp4">
   Dein Browser unterstützt dieses Videoformat nicht.
 </video>
 
