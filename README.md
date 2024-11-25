@@ -3,8 +3,11 @@
 </p>
 
 # Cub3D Project
-
+<!--
 Cub3d is an immersive project offered by 42 Berlin that dives into the world of ray-casting, an essential technique in computer graphics. The main goal of the project is to create a 3D graphical representation of a maze-like environment from a 2D map, similar to the early 3D games like Wolfenstein 3D.
+--> 
+Cub3D is a project I developed to create a 3D maze game inspired by classic titles like "Wolfenstein 3D." The project is built in C and utilizes the MiniLibX graphics library to render a dynamic 3D environment using raycasting. It challenged me to dive deep into graphics programming, implement mathematical concepts like trigonometry for 3D effects, and optimize performance.
+
 
 ## Key Objectives:
 
